@@ -1,3 +1,11 @@
+- title: "History of Rome Podcast LLM Search."
+  link: "https://github.com/MichaelShoemaker/history_of_rome_podcast_llm"
+  description: "Download and transcribe all epiodes of the History of Rome and load them to Ollama LLM"
+  stack: "Docker Compose · Ollama ·  qdrant"
+  image: "/assets/images/HistoryOfRomeDataFlowDiagram.gif"
+  preview_gif: "/assets/images/HORDemo.gif"
+  screenshot: "/assets/images/HistoryOfRomeDataFlowDiagram.gif"
+
 - title: "Divvy Bike Rental Data Pipeline."
   link: "https://github.com/MichaelShoemaker/shoemaker-de-zoomcamp-final-project"
   description: "Data Enginnering Zoomcamp Final Project 2022"
