@@ -2,7 +2,7 @@
 
 This repository contains the source code for [Michael Shoemaker's GitHub Pages site](https://michaelshoemaker.github.io).
 
-If you’d like to **make your own website using this as a template**, you can either use the Template Button on the repo. The video below gives a brief walkthrough.
+If you’d like to **make your own website using this as a template**, you can either use the "Use this template" button on the repo. The video below gives a brief walkthrough.
 
 ## 🎥 Video Walkthrough
 
