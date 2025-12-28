@@ -9,7 +9,7 @@ If you’d like to **make your own website using this as a template**, you can e
 [![Watch the video](https://img.youtube.com/vi/IgB7TM5wRQ8/maxresdefault.jpg)](https://youtu.be/IgB7TM5wRQ8)
 
 
-**OR***follow the steps below — it’s simple and free!
+**OR** follow the steps below — it’s simple and free!
 
 ---
 
